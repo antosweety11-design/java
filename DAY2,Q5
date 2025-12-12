@@ -1,0 +1,9 @@
+Import java.util.Scanner;
+Public class Main{
+Public static void main(String []agrs){
+Scanner sc=new scanner (system.in)
+Int a =90;
+Int b=80;
+System. out.println(a%b)
+}
+}
