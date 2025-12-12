@@ -1,0 +1,9 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("English: 85");
+        System.out.println("Maths: 90");
+        System.out.println("Science: 88");
+        System.out.println("Social: 92");
+        System.out.println("Tamil: 89");
+    }
+}
